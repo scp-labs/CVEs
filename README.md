@@ -7,6 +7,6 @@
 - [CVE-2024-53641: Denial of Service (DoS) through Unauthenticated User Blocking via QTP Gateway Webpage]()
 - [CVE-2024-53642: Cleartext Transmission of Sensitive Information via Unencrypted Communication with QTP Database]()
 - [CVE-2024-53926: Reflected Cross-site Scripting (RXSS) in Control-D WebAccess Server customer login page]()
-- [CVE-2024-53927: Denial of Service (DoS) through a Javascript function Memory Exhaustion in Control-D WebAccess Server]()
+- [CVE-2024-53927: Denial of Service (DoS) through Memory Exhaustion in Control-D WebAccess Server]()
 - [CVE-2024-53928: Unauthenticated Privileges Escalation through Insecure Direct Object Reference (IDOR) in Control-D WebAccess Server]()
 - [CVE-2024-53929: Brute Force Protection Bypass in Control-D WebAccess Server]()
