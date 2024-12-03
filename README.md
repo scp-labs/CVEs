@@ -7,6 +7,6 @@
 - [CVE-2024-53641: Denial of Service (DoS) through Unauthenticated User Blocking - Ivory Software]()
 - [CVE-2024-53642: Cleartext Transmission of Sensitive Information via Unencrypted Communication - Ivory Software]()
 - [CVE-2024-53926: Reflected Cross-site Scripting (RXSS) - BMC Software]()
-- [CVE-2024-53927: through Memory Exhaustion of a JS function leading to a Denial of Service (DoS) - BMC Software]()
+- [CVE-2024-53927: Memory Exhaustion of a JS function leading to a Denial of Service (DoS) - BMC Software]()
 - [CVE-2024-53928: Privilege Escalation - BMC Software]()
 - [CVE-2024-53929: Brute Force Protection Bypass - BMC Software]()
