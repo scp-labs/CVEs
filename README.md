@@ -4,7 +4,7 @@
 
 - [CVE-2024-51025: Stored Cross-site Scripting (SXSS) - Ivory Software](https://github.com/scp-labs/CVEs/tree/main/CVE-2024-51025) 
 - [CVE-2024-53640: Server-Side Request Forgery (SSRF) and Data Exfiltration via Server Callback - Ivory Software](https://github.com/scp-labs/CVEs/tree/main/CVE-2024-53640)
-- [CVE-2024-53641: Denial of Service (DoS) through Unauthenticated User Blocking - Ivory Software](https://github.com/scp-labs/CVEs/CVE-2024-53641)
+- [CVE-2024-53641: Denial of Service (DoS) through Unauthenticated User Blocking - Ivory Software](https://github.com/scp-labs/CVEs/tree/main/CVE-2024-53641)
 - [CVE-2024-53642: Cleartext Transmission via Unencrypted Communication Channel - Ivory Software]()
 - [CVE-2024-53926: Reflected Cross-site Scripting (RXSS) - BMC Software]()
 - [CVE-2024-53927: Memory Exhaustion of a JS function leading to a Denial of Service (DoS) - BMC Software]()
