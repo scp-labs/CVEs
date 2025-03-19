@@ -1,7 +1,5 @@
 # S.C.P CVE Proof-of-Concept Exploits 
 
-### A collection of proof-of-concept exploit scripts written by the SCP Laboratory Security Research Team that were awarded various CVEs.
-
 - [CVE-2024-51025](https://github.com/scp-labs/CVEs/tree/main/CVE-2024-51025): Stored Cross-site Scripting (SXSS)
 - [CVE-2024-53640](https://github.com/scp-labs/CVEs/tree/main/CVE-2024-53640): Server-Side Request Forgery (SSRF) and Data Exfiltration via Server Callback
 - [CVE-2024-53641](https://github.com/scp-labs/CVEs/tree/main/CVE-2024-53641): Denial of Service (DoS) through Unauthenticated User Blocking
