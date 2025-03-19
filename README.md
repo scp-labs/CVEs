@@ -1,4 +1,4 @@
-# S.C.P CVE Proof-of-Concept Exploits 
+# S.C.P CVE Proof-of-Concept Exploits
 
 - [CVE-2024-51025](https://github.com/scp-labs/CVEs/tree/main/CVE-2024-51025): Stored Cross-site Scripting (SXSS)
 - [CVE-2024-53640](https://github.com/scp-labs/CVEs/tree/main/CVE-2024-53640): Server-Side Request Forgery (SSRF) and Data Exfiltration via Server Callback
